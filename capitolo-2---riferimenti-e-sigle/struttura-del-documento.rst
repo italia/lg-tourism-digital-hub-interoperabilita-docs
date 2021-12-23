@@ -9,7 +9,7 @@ fruire e/o erogare dati e/o servizi digitali per il tramite di sistemi
 terzi verso e dal TDH:
 
 +-----------------------------------+-----------------------------------+
-| **Documento Operativo 1**         | `Pattern di interazione <../media/TDH022 Pattern di interazione.pdf>`_          |
+| **Documento Operativo 1**         | Pattern di interazione            |
 +-----------------------------------+-----------------------------------+
 | **Documento Operativo 2**         | Pattern di sicurezza              |
 +-----------------------------------+-----------------------------------+
@@ -23,6 +23,8 @@ terzi verso e dal TDH:
 | **Documento Operativo 6**         | Contrattualistica e adesione      |
 |                                   | all’Ecosistema Digitale           |
 +-----------------------------------+-----------------------------------+
+
+`Pattern di interazione <../media/TDH022 Pattern di interazione.pdf>`_
 
 Al fine di assicurare il costante allineamento alle evoluzioni
 tecnologiche, l’aggiornamento dei DO è realizzato dagli operatori
