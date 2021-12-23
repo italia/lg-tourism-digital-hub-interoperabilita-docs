@@ -23,8 +23,9 @@ terzi verso e dal TDH:
 | **Documento Operativo 6**         | Contrattualistica e adesione      |
 |                                   | all’Ecosistema Digitale           |
 +-----------------------------------+-----------------------------------+
+Scarica i documenti:
+:mimetype:`application/pdf` :download:`Pattern di interazione <../media/TDH022 Pattern di interazione.pdf>`
 
-`Pattern di interazione <../media/TDH022 Pattern di interazione.pdf>`_
 
 Al fine di assicurare il costante allineamento alle evoluzioni
 tecnologiche, l’aggiornamento dei DO è realizzato dagli operatori
