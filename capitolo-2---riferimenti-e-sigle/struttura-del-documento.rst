@@ -8,23 +8,23 @@ relativi a standard tecnologici e loro modalità di utilizzo al fine di
 fruire e/o erogare dati e/o servizi digitali per il tramite di sistemi
 terzi verso e dal TDH:
 
-+-----------------------------------+-----------------------------------+
-| **Documento Operativo 1**         | Pattern di interazione            |
-+-----------------------------------+-----------------------------------+
-| **Documento Operativo 2**         | Pattern di sicurezza              |
-+-----------------------------------+-----------------------------------+
-| **Documento Operativo 3**         | Profili di interoperabilità       |
-+-----------------------------------+-----------------------------------+
-| **Documento Operativo 4**         | Raccomandazioni di                |
-|                                   | implementazione                   |
-+-----------------------------------+-----------------------------------+
-| **Documento Operativo 5**         | Ontologie                         |
-+-----------------------------------+-----------------------------------+
-| **Documento Operativo 6**         | Contrattualistica e adesione      |
-|                                   | all’Ecosistema Digitale           |
-+-----------------------------------+-----------------------------------+
++-----------------------------------+--------------------------------------------------------------------------------------------+
+| **Documento Operativo 1**         | :download:`Pattern di interazione <../media/TDH022 Pattern di interazione.pdf>`            |
++-----------------------------------+--------------------------------------------------------------------------------------------+
+| **Documento Operativo 2**         | Pattern di sicurezza                                                                       |
++-----------------------------------+--------------------------------------------------------------------------------------------+
+| **Documento Operativo 3**         | Profili di interoperabilità                                                                |
++-----------------------------------+--------------------------------------------------------------------------------------------+
+| **Documento Operativo 4**         | Raccomandazioni di                                                                         |
+|                                   | implementazione                                                                            |
++-----------------------------------+--------------------------------------------------------------------------------------------+
+| **Documento Operativo 5**         | Ontologie                                                                                  |
++-----------------------------------+--------------------------------------------------------------------------------------------+
+| **Documento Operativo 6**         | Contrattualistica e adesione                                                               |
+|                                   | all’Ecosistema Digitale                                                                    |
++-----------------------------------+--------------------------------------------------------------------------------------------+
 Scarica i documenti:
-:mimetype:`application/pdf` :download:`Pattern di interazione <../media/TDH022 Pattern di interazione.pdf>`
+:download:`Pattern di interazione <../media/TDH022 Pattern di interazione.pdf>`
 
 
 Al fine di assicurare il costante allineamento alle evoluzioni
