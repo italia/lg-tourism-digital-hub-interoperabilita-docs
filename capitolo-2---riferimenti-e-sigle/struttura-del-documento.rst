@@ -11,14 +11,14 @@ terzi verso e dal TDH:
 +-----------------------------------+--------------------------------------------------------------------------------------------+
 | **Documento Operativo 1**         | :download:`Pattern di interazione <../media/TDH022 Pattern di interazione.pdf>`            |
 +-----------------------------------+--------------------------------------------------------------------------------------------+
-| **Documento Operativo 2**         | Pattern di sicurezza                                                                       |
+| **Documento Operativo 2**         | :download:`Pattern di sicurezza <../media/TDH022 Pattern di sicurezza.pdf>`                |
 +-----------------------------------+--------------------------------------------------------------------------------------------+
-| **Documento Operativo 3**         | Profili di interoperabilità                                                                |
+| **Documento Operativo 3**         | :download:`Pattern di interoperabilità <../media/TDH022 Profili di interoperabilita.pdf>`  |
 +-----------------------------------+--------------------------------------------------------------------------------------------+
-| **Documento Operativo 4**         | Raccomandazioni di                                                                         |
-|                                   | implementazione                                                                            |
+| **Documento Operativo 4**         | :download:`Raccomandazioni di implementazione                                              |
+|                                   | <../media/TDH022 Raccomandazioni di implementazione.pdf>`                                  |
 +-----------------------------------+--------------------------------------------------------------------------------------------+
-| **Documento Operativo 5**         | Ontologie                                                                                  |
+| **Documento Operativo 5**         | :download:`Ontologie <../media/TDH022 Ontologie.pdf>`                                      |
 +-----------------------------------+--------------------------------------------------------------------------------------------+
 | **Documento Operativo 6**         | Contrattualistica e adesione                                                               |
 |                                   | all’Ecosistema Digitale                                                                    |
