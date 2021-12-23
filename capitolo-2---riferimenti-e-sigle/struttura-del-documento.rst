@@ -9,7 +9,7 @@ fruire e/o erogare dati e/o servizi digitali per il tramite di sistemi
 terzi verso e dal TDH:
 
 +-----------------------------------+-----------------------------------+
-| **Documento Operativo 1**         | Pattern di interazione            |
+| **Documento Operativo 1**         | `Pattern di interazione <../media/TDH022 Pattern di interazione.pdf>`_          |
 +-----------------------------------+-----------------------------------+
 | **Documento Operativo 2**         | Pattern di sicurezza              |
 +-----------------------------------+-----------------------------------+
