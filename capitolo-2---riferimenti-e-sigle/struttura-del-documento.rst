@@ -13,7 +13,7 @@ terzi verso e dal TDH:
 +-----------------------------------+--------------------------------------------------------------------------------------------+
 | **Documento Operativo 2**         | :download:`Pattern di sicurezza <../media/TDH022 Pattern di sicurezza.pdf>`                |
 +-----------------------------------+--------------------------------------------------------------------------------------------+
-| **Documento Operativo 3**         | :download:`Pattern di interoperabilità <../media/TDH022 Profili di interoperabilita.pdf>`  |
+| **Documento Operativo 3**         | :download:`Profili di interoperabilità <../media/TDH022 Profili di interoperabilita.pdf>`  |
 +-----------------------------------+--------------------------------------------------------------------------------------------+
 | **Documento Operativo 4**         | :download:`Raccomandazioni di implementazione                                              |
 |                                   | <../media/TDH022 Raccomandazioni di implementazione.pdf>`                                  |
