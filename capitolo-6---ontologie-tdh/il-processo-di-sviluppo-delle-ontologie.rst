@@ -242,13 +242,13 @@ alle Offerte.
 
    Repository delle ontologie e dei vocabolari - piano triennale per
    l'informatica della PA e vocabolari controllati:
-   https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie
+   https://github.com/italia/dati-semantic-assets/tree/master/Ontologie
 
    DATAtourisme data schema: https://framagit.org/datatourisme/ontology/
 
 .. [3]
    Riferimento online:
-   https://github.com/italia/daf-ontologie-vocabolari-controllati
+   https://github.com/italia/dati-semantic-assets
 
 .. [4]
 

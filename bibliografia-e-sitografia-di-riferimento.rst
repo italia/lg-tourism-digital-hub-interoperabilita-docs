@@ -36,7 +36,7 @@ sviluppati nell'ambito delle azioni previste dal piano triennale per
 l'informatica della Pubblica Amministrazione e vocabolari controllati**
 
 Sito Web: Github – Riferimento online:
-https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie
+https://github.com/italia/dati-semantic-assets/tree/master/Ontologie
 
 **DATAtourisme data schema**
 
